@@ -82,9 +82,9 @@ b{
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu3{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu4{display: block; position: absolute; top:58%; left:50%; 
+#menu4{display: block; position: absolute; top:56%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu5{display: block; position: fixed; top:90%; left:50% z-index:9999; 
+#menu5{display: block; position: fixed; top:90%; left:50% z-index:9999; text-align:center; vertical-align:center;
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 
 
