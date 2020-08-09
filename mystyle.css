@@ -1,0 +1,150 @@
+a{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    color: #dcd2be;
+    padding: 10px; margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size:120%;
+}
+
+}
+div{
+    text-align: center; 
+}
+p{
+    font-family: 'Noto Sans KR', sans-serif;
+    color: black;
+    padding: 10px; margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    
+}
+b{
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #dcd2be;
+    background-color: #30393d;
+    padding: 10px; margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+}
+
+#now{color:orange;}
+
+#text{
+    margin: 20px;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+
+#layout{
+    display: block;
+}
+
+#menu1{display: block; position: absolute; top:30%; left:50%; 
+    z-index:100;text-align:center; transform: translate(-50%, 50%);}
+#menu2{display: block; position: absolute; top:42.5%; left:50%; 
+    z-index:100;text-align:center; transform: translate(-50%, 50%);}
+#menu3{display: block; position: absolute; top:30%; left:50%; 
+    z-index:100;text-align:center; transform: translate(-50%, 50%);}
+#menu4{display: block; position: absolute; top:69%; left:50%; 
+    z-index:100;text-align:center; transform: translate(-50%, 50%);}
+#menu5{display: block; position: absolute; top:89%; left:50%; 
+    z-index:100;text-align:center; transform: translate(-50%, 50%);}
+
+
+#dis{
+    display: none;
+    
+}
+#dis1{
+    display: none;
+    
+}
+#dis2{
+    display: none;
+    
+}
+#dis0{
+    display: block;
+}
+#dis3{
+    display: none;
+}
+#dis4{
+    display: none;
+}
+#dis5{
+    display: none;
+}
+#dis6{
+    display: none;
+}
+#dis7{
+    display: none;
+}
+#dis8{
+    display: none;
+}
+#dis9{
+    display: none;
+}
+#dis10{
+    display: none;
+}
+
+
+
+
+#result1{
+    display: none;
+}
+#result2{
+    display: none;
+}
+#result3{
+    display: none;
+}
+#result4{
+    display: none;
+}
+#result5{
+    display: none;
+}
+#result6{
+    display: none;
+}
+#result7{
+    display: none;
+}
+#result8{
+    display: none;
+}
+#result9{
+    display: none;
+}
+#result10{
+    display: none;
+}
+#result11{
+    display: none;
+}
+#result12{
+    display: none;
+}
+#result13{
+    display: none;
+}
+#result14{
+    display: none;
+}
+#result15{
+    display: none;
+}
+#result16{
+    display: none;
+}
