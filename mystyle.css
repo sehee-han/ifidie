@@ -33,6 +33,12 @@ b{
     display: block;
 }
 
+.selector img{
+	top:0; left:0;
+	max-width:150%;
+	height:auto;
+}
+
 #now{color:orange;}
 
 #text{
@@ -51,7 +57,7 @@ b{
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu3{display: block; position: absolute; top:30%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu4{display: block; position: absolute; top:69%; left:50%; 
+#menu4{display: block; position: absolute; top:50%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu5{display: block; position: absolute; top:89%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
