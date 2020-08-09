@@ -20,6 +20,7 @@ p{
     text-align: center;
     text-decoration: none;
     display: block;
+	font-size: 150%;
     
 }
 b{
@@ -54,7 +55,7 @@ b{
 
 #menu1{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu2{display: block; position: absolute; top:39%; left:50%; 
+#menu2{display: block; position: absolute; top:37.5%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu3{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
