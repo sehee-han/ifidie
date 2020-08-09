@@ -9,15 +9,26 @@ a{
     font-size:250%;
 }
 
-a1{
-	font-family: 'Noto Sans KR', sans-serif;
+a2{
+    font-family: 'Noto Sans KR', sans-serif;
     font-weight: bold;
-    color: navy;
+    color: #dcd2be;
     padding: 10px; margin: 0px;
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size:270%;
+    font-size:230%;
+}
+
+a1{
+	font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    background-color: #f69e7b; color: #383e56;
+    padding: 10px; margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size:275%;
 	
 
 }
