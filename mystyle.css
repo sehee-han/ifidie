@@ -9,6 +9,17 @@ a{
     font-size:250%;
 }
 
+a1{
+	font-family: 'Noto Sans KR', sans-serif;
+    font-weight: bold;
+    color: navy;
+    padding: 10px; margin: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size:270%;
+	
+
 }
 div{
     text-align: center; 
@@ -16,11 +27,11 @@ div{
 p{
     font-family: 'Noto Sans KR', sans-serif;
     color: black;
-    padding: 10px; margin: 0px;
+    padding: 20px; margin: 0px;
     text-align: center;
     text-decoration: none;
     display: block;
-	font-size: 150%;
+	font-size: 160%;
     
 }
 b{
