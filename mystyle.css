@@ -6,7 +6,7 @@ a{
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size:300%;
+    font-size:250%;
 }
 
 }
@@ -52,11 +52,11 @@ b{
     display: block;
 }
 
-#menu1{display: block; position: absolute; top:30%; left:50%; 
+#menu1{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu2{display: block; position: absolute; top:42.5%; left:50%; 
+#menu2{display: block; position: absolute; top:39%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu3{display: block; position: absolute; top:30%; left:50%; 
+#menu3{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu4{display: block; position: absolute; top:50%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
