@@ -82,7 +82,7 @@ b{
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu3{display: block; position: absolute; top:27%; left:50%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
-#menu4{display: block; position: absolute; top:55.5%; left:50%; 
+#menu4{display: block; position: absolute; top:57%; left:30%; 
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
 #menu5{display: block; position: fixed; top:90%; left:85%; z-index:9999; text-align:right; padding-right:10px;
     z-index:100;text-align:center; transform: translate(-50%, 50%);}
